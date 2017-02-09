@@ -1,0 +1,17 @@
+#story {
+  display: none;
+}
+
+#transaction {
+  margin-top: 100px;
+  border: 3px solid black;
+}
+
+
+#confirmation {
+  display: none;
+}
+
+#buyer-info-output {
+  font-size: 14pt;
+}
